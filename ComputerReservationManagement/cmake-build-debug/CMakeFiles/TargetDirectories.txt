@@ -1,0 +1,3 @@
+/Users/giovanni/CLion/ComputerReservationManagement/cmake-build-debug/CMakeFiles/ComputerReservationManagement.dir
+/Users/giovanni/CLion/ComputerReservationManagement/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/giovanni/CLion/ComputerReservationManagement/cmake-build-debug/CMakeFiles/rebuild_cache.dir
